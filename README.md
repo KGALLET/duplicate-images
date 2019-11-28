@@ -1,3 +1,8 @@
+Fork: Readaptation of the lib using tinydb as embedded db.
+Do not take care of MongoDB installation steps in the README below.
+
+------------------------
+
 # Duplicate Image Finder
 
 ![](https://api.travis-ci.org/philipbl/duplicate-images.svg)
